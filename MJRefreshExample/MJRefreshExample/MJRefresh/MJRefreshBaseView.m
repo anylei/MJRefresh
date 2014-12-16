@@ -86,7 +86,7 @@
     [super layoutSubviews];
     
     // 1.箭头
-    CGFloat arrowX = self.mj_width * 0.5 - 100;
+    CGFloat arrowX = self.mj_width * 0.5 - 48;
     self.arrowImage.center = CGPointMake(arrowX, self.mj_height * 0.5);
     
     // 2.指示器
