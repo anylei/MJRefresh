@@ -69,9 +69,6 @@ static char MJRefreshFooterViewKey;
     
     // 2.设置block回调
     self.header.beginRefreshingCallback = callback;
-    
-    // 3.设置存储刷新时间的key
-    self.header.dateKey = dateKey;
 }
 
 /**
@@ -97,9 +94,6 @@ static char MJRefreshFooterViewKey;
     // 2.设置目标和回调方法
     self.header.beginRefreshingTaget = target;
     self.header.beginRefreshingAction = action;
-    
-    // 3.设置存储刷新时间的key
-    self.header.dateKey = dateKey;
 }
 
 /**

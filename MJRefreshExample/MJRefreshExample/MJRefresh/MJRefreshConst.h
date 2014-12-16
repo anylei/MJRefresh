@@ -35,7 +35,6 @@ UIKIT_EXTERN NSString *const MJRefreshFooterRefreshing;
 UIKIT_EXTERN NSString *const MJRefreshHeaderPullToRefresh;
 UIKIT_EXTERN NSString *const MJRefreshHeaderReleaseToRefresh;
 UIKIT_EXTERN NSString *const MJRefreshHeaderRefreshing;
-UIKIT_EXTERN NSString *const MJRefreshHeaderTimeKey;
 
 UIKIT_EXTERN NSString *const MJRefreshContentOffset;
 extern NSString *const MJRefreshContentSize;
